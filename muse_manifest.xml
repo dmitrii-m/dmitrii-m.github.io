@@ -1,0 +1,233 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="vezutebe.ru" resolutions="1x" timestamp="1500378858488">
+  <folder name="css">
+    <file name="site_global.css" crc="4110665638"/>
+    <file name="index.css" crc="527487456" ref="index"/>
+    <file name="iefonts_index.css" crc="4040676948" ref="index"/>
+    <file name="spasibo_za_zakaz.css" crc="3777487030" ref="spasibo_za_zakaz"/>
+    <file name="iefonts_spasibo_za_zakaz.css" crc="4067384768" ref="spasibo_za_zakaz"/>
+  </folder>
+  <folder name="assets">
+    <file name="phone.css" crc="3833006291" seo="true" mt="1465395377000"/>
+    <file name="phone.png" crc="284427595" seo="true" mt="1422020822000"/>
+    <file name="jquery.maskedinput.js" crc="128391879" seo="true" mt="1403676532000"/>
+    <file name="logo_animation.gif" crc="158420546" seo="true" mt="1465672584000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="museutils.js" crc="3790713428" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="whatinput.js" crc="84559013" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="tablet>index"/>
+    <file name="webpro.js" crc="329496574" ref="tablet>index:index:spasibo_za_zakaz"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="tablet>index:index:spasibo_za_zakaz"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="tablet>index:index:spasibo_za_zakaz"/>
+    <file name="touchswipe.js" crc="497316881" ref="tablet>index:index:spasibo_za_zakaz"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="form_check.php" crc="3805695515" ref="tablet>index:index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="tablet>index:index"/>
+    <file name="form_process.php" crc="54267062" ref="tablet>index:index"/>
+    <file name="form-u7813.php" crc="4157855786" ref="tablet>index"/>
+    <file name="form-u8107.php" crc="3846784417" ref="tablet>index"/>
+    <file name="form-u8133.php" crc="144793134" ref="tablet>index"/>
+    <file name="form-u8225.php" crc="206534597" ref="tablet>index"/>
+    <file name="form-u8358.php" crc="4164032678" ref="tablet>index"/>
+    <file name="form-u8388.php" crc="531985486" ref="tablet>index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="tablet>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>spasibo_za_zakaz:index:spasibo_za_zakaz"/>
+    <file name="form-u8545.php" crc="115618888" ref="index"/>
+    <file name="form-u2886.php" crc="4063493068" ref="index"/>
+    <file name="form-u4638.php" crc="3835189471" ref="index"/>
+    <file name="form-u5050.php" crc="4227277997" ref="index"/>
+    <file name="form-u3798.php" crc="50889153" ref="index"/>
+    <file name="form-u5079.php" crc="193061127" ref="index"/>
+    <file name="form-u5113.php" crc="344835510" ref="index"/>
+    <file name="form-u5985.php" crc="34518088" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4100317052" ref="tablet>index"/>
+    <file name="line.png" crc="415596025" ref="tablet>index:index"/>
+    <file name="планшет111.png" crc="134918988" ref="tablet>index"/>
+    <file name="планшет222.png" crc="425757471" ref="tablet>index"/>
+    <file name="логотип для сайта2.png" crc="3847755214" seo="true" ref="tablet>index"/>
+    <file name="трубка.png" crc="430464728" seo="true" ref="tablet>index:index"/>
+    <file name="1 слайд планшет.jpg" crc="3765752363" seo="true" ref="tablet>index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:index"/>
+    <file name="2 слайд планшет.jpg" crc="523927307" seo="true" ref="tablet>index"/>
+    <file name="3 слайд планшет.jpg" crc="4041971627" seo="true" ref="tablet>index"/>
+    <file name="4 слайд планшет.jpg" crc="449447048" seo="true" ref="tablet>index"/>
+    <file name="trigger 222.png" crc="4228271242" ref="tablet>index"/>
+    <file name="trigger 23-crop-u7794.png" crc="133645051" ref="tablet>index"/>
+    <file name="trigger 23-crop-u7796.png" crc="133645051" ref="tablet>index"/>
+    <file name="trigger 23-crop-u7798.png" crc="133645051" ref="tablet>index"/>
+    <file name="trigger 23-crop-u7800.png" crc="133645051" ref="tablet>index"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:index"/>
+    <file name="u7830-17.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u7830-17-r.png" crc="3836419300" ref="tablet>index"/>
+    <file name="u7830-17-m.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u7830-17-fs.png" crc="4202749706" ref="tablet>index"/>
+    <file name="крестик закрыть.png" crc="294367238" ref="tablet>index:index"/>
+    <file name="полоса между городами.png" crc="3900012777" seo="true" ref="tablet>index:index"/>
+    <file name="полоса лев.png" crc="124604710" seo="true" ref="tablet>index:index"/>
+    <file name="полоза прав.png" crc="79570042" seo="true" ref="tablet>index:index"/>
+    <file name="планшет.png" crc="3860322884" seo="true" ref="tablet>index:index"/>
+    <file name="калькулятор.png" crc="192727005" seo="true" ref="tablet>index:index"/>
+    <file name="кошелек.png" crc="4187360342" seo="true" ref="tablet>index:index"/>
+    <file name="смс.png" crc="3885417147" seo="true" ref="tablet>index:index"/>
+    <file name="коробка.png" crc="153076132" seo="true" ref="tablet>index:index"/>
+    <file name="полоса для схемы 1.png" crc="3859321239" seo="true" ref="tablet>index:index"/>
+    <file name="трубка и моник.png" crc="146409432" seo="true" ref="tablet>index:index"/>
+    <file name="наушники.png" crc="28217870" seo="true" ref="tablet>index:index"/>
+    <file name="тележка.png" crc="407063207" seo="true" ref="tablet>index:index"/>
+    <file name="лист.png" crc="310759830" seo="true" ref="tablet>index:index"/>
+    <file name="полоса для схемы 2.png" crc="447635554" seo="true" ref="tablet>index:index"/>
+    <file name="машина.png" crc="59024685" seo="true" ref="tablet>index:index"/>
+    <file name="машина и короб.png" crc="4014197742" seo="true" ref="tablet>index:index"/>
+    <file name="разговоры.png" crc="329065775" seo="true" ref="tablet>index:index"/>
+    <file name="палец вверх.png" crc="4282608842" seo="true" ref="tablet>index:index"/>
+    <file name="фон1.jpg" crc="4228476674" ref="tablet>index:index"/>
+    <file name="u8112-17.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8112-17-r.png" crc="3836419300" ref="tablet>index"/>
+    <file name="u8112-17-m.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8112-17-fs.png" crc="4202749706" ref="tablet>index"/>
+    <file name="калькулятор2.png" crc="145620112" ref="tablet>index:index"/>
+    <file name="калькулятор22.png" crc="3904284765" ref="tablet>index:index"/>
+    <file name="калькулятор2-ieu8132-fr.png" crc="224352514" ref="tablet>index:index"/>
+    <file name="калькулятор2.jpg" crc="276026879" ref="tablet>index:index"/>
+    <file name="u8160-17.png" crc="39728225" ref="tablet>index"/>
+    <file name="u8160-17-r.png" crc="352898854" ref="tablet>index"/>
+    <file name="u8160-17-m.png" crc="39728225" ref="tablet>index"/>
+    <file name="u8160-17-fs.png" crc="39728225" ref="tablet>index"/>
+    <file name="checkboxunchecked.jpg" crc="3783961257" ref="tablet>index:index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="3898835355" ref="tablet>index:index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4019589203" ref="tablet>index:index"/>
+    <file name="checkboxchecked.jpg" crc="3760363524" ref="tablet>index:index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="tablet>index:index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="tablet>index:index"/>
+    <file name="крестик закрыть2.png" crc="294367238" seo="true" ref="tablet>index:index"/>
+    <file name="234.png" crc="3879428273" ref="tablet>index:index"/>
+    <file name="гарантия.png" crc="104176185" seo="true" ref="tablet>index:index"/>
+    <file name="цены.png" crc="4170208821" seo="true" ref="tablet>index:index"/>
+    <file name="доставка.png" crc="4120668453" seo="true" ref="tablet>index:index"/>
+    <file name="ключ.png" crc="383404558" seo="true" ref="tablet>index:index"/>
+    <file name="u8226-17.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8226-17-r.png" crc="3836419300" ref="tablet>index"/>
+    <file name="u8226-17-m.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8226-17-fs.png" crc="4202749706" ref="tablet>index"/>
+    <file name="9d31ab10d5c92f548e1ea7b805689f96.jpg" crc="127597610" ref="tablet>index:index"/>
+    <file name="фото на отзыв янка.jpg" crc="492863316" ref="tablet>index:index"/>
+    <file name="фото на отзыв-ieu8290-fr.png" crc="4068121882" ref="tablet>index:index"/>
+    <file name="фото на отзыв.jpg" crc="3837897541" ref="tablet>index:index"/>
+    <file name="фото на отзыв колат.jpg" crc="4003369690" ref="tablet>index:index"/>
+    <file name="стрелочка11.png" crc="95077868" ref="tablet>index:index"/>
+    <file name="стрелочка21.png" crc="3833491617" ref="tablet>index:index"/>
+    <file name="стрелочка12.png" crc="3827138302" ref="tablet>index:index"/>
+    <file name="стрелочка22.png" crc="409644352" ref="tablet>index:index"/>
+    <file name="памятники в машине в упаковке178x238.jpg" crc="69944287" seo="true" ref="tablet>index"/>
+    <file name="диван.jpg" crc="226949954" seo="true" ref="tablet>index:index"/>
+    <file name="img_20160909_100624.jpg" crc="3813064877" seo="true" ref="tablet>index:index"/>
+    <file name="img_20160907_142304.jpg" crc="4206889846" seo="true" ref="tablet>index:index"/>
+    <file name="u8378-17.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8378-17-r.png" crc="3836419300" ref="tablet>index"/>
+    <file name="u8378-17-m.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8378-17-fs.png" crc="4202749706" ref="tablet>index"/>
+    <file name="main_background.jpg" crc="126683639" ref="tablet>index:index"/>
+    <file name="u8391-17.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8391-17-r.png" crc="3836419300" ref="tablet>index"/>
+    <file name="u8391-17-m.png" crc="4202749706" ref="tablet>index"/>
+    <file name="u8391-17-fs.png" crc="4202749706" ref="tablet>index"/>
+    <file name="86logo_karcher.png" crc="3893660382" seo="true" ref="tablet>index:index"/>
+    <file name="bosch_logo-4.png" crc="505382665" seo="true" ref="tablet>index:index"/>
+    <file name="clients-134.png" crc="485091442" seo="true" ref="tablet>index:index"/>
+    <file name="febest1.png" crc="433322402" seo="true" ref="tablet>index:index"/>
+    <file name="fila_logo.png" crc="227586384" seo="true" ref="tablet>index:index"/>
+    <file name="f-inqueue-storie.jpg" crc="237695335" seo="true" ref="tablet>index:index"/>
+    <file name="gembird.png" crc="3833160652" seo="true" ref="tablet>index:index"/>
+    <file name="gillette_logo.png" crc="270906878" seo="true" ref="tablet>index:index"/>
+    <file name="gorenje_logo-hires.png" crc="4116208410" seo="true" ref="tablet>index:index"/>
+    <file name="borovichi1.png" crc="3942593912" seo="true" ref="tablet>index:index"/>
+    <file name="electrolux-big-logo.png" crc="3895565388" seo="true" ref="tablet>index:index"/>
+    <file name="nokian.png" crc="116869453" seo="true" ref="tablet>index:index"/>
+    <file name="nestlé-logo.png" crc="4093523328" seo="true" ref="tablet>index:index"/>
+    <file name="logo-eco2.png" crc="528610266" seo="true" ref="tablet>index:index"/>
+    <file name="tarkett_logo2(2).png" crc="4180802202" seo="true" ref="tablet>index:index"/>
+    <file name="main_background2.jpg" crc="126683639" ref="tablet>index:index"/>
+    <file name="36043-u8479.png" crc="4054441915" ref="tablet>index"/>
+    <file name="трубка2.png" crc="3964177939" seo="true" ref="tablet>index:index"/>
+    <file name="полоза прав2-u8477.png" crc="367356332" ref="tablet>index"/>
+    <file name="email.png" crc="179032518" seo="true" ref="tablet>index:index"/>
+    <file name="другвокруг.png" crc="179277176" seo="true" ref="tablet>index:index"/>
+    <file name="kontakt_foto.png" crc="295539170" seo="true" ref="tablet>spasibo_za_zakaz:spasibo_za_zakaz"/>
+    <file name="domoj.png" crc="4161322432" ref="tablet>spasibo_za_zakaz:spasibo_za_zakaz"/>
+    <file name="main_background3.jpg" crc="126683639" ref="tablet>spasibo_za_zakaz"/>
+    <file name="main_background1.jpg" crc="248260128" ref="index"/>
+    <file name="логотип для сайта.jpg" crc="478864404" seo="true" ref="index"/>
+    <file name="фон полоса в мы вам перезвоним.jpg" crc="3821334541" ref="index"/>
+    <file name="u8553-17.png" crc="3831802336" ref="index"/>
+    <file name="u8553-17-r.png" crc="4213063988" ref="index"/>
+    <file name="u8553-17-m.png" crc="3831802336" ref="index"/>
+    <file name="u8553-17-fs.png" crc="3831802336" ref="index"/>
+    <file name="1 слайд.jpg" crc="368094807" seo="true" ref="index"/>
+    <file name="2 слайд.jpg" crc="4086790698" seo="true" ref="index"/>
+    <file name="3 слайд.jpg" crc="4273675090" seo="true" ref="index"/>
+    <file name="4 слайд.jpg" crc="3885294019" seo="true" ref="index"/>
+    <file name="trigger 2.png" crc="338833958" ref="index"/>
+    <file name="trigger 23-crop-u2334.png" crc="3827173629" ref="index"/>
+    <file name="trigger 23-crop-u2452.png" crc="3827173629" ref="index"/>
+    <file name="trigger 23-crop-u2466.png" crc="3827173629" ref="index"/>
+    <file name="trigger 23-crop-u2480.png" crc="3827173629" ref="index"/>
+    <file name="u2902-17.png" crc="4202749706" ref="index"/>
+    <file name="u2902-17-r.png" crc="3836419300" ref="index"/>
+    <file name="u2902-17-m.png" crc="4202749706" ref="index"/>
+    <file name="u2902-17-fs.png" crc="4202749706" ref="index"/>
+    <file name="u4654-17.png" crc="3831802336" ref="index"/>
+    <file name="u4654-17-r.png" crc="4213063988" ref="index"/>
+    <file name="u4654-17-m.png" crc="3831802336" ref="index"/>
+    <file name="u4654-17-fs.png" crc="3831802336" ref="index"/>
+    <file name="полоса для схемы 2.jpg" crc="3795184172" seo="true" ref="index"/>
+    <file name="u5066-17.png" crc="4202749706" ref="index"/>
+    <file name="u5066-17-r.png" crc="3836419300" ref="index"/>
+    <file name="u5066-17-m.png" crc="4202749706" ref="index"/>
+    <file name="u5066-17-fs.png" crc="4202749706" ref="index"/>
+    <file name="u3809-17.png" crc="39728225" ref="index"/>
+    <file name="u3809-17-r.png" crc="352898854" ref="index"/>
+    <file name="u3809-17-m.png" crc="39728225" ref="index"/>
+    <file name="u3809-17-fs.png" crc="39728225" ref="index"/>
+    <file name="u5082-17.png" crc="4202749706" ref="index"/>
+    <file name="u5082-17-r.png" crc="3836419300" ref="index"/>
+    <file name="u5082-17-m.png" crc="4202749706" ref="index"/>
+    <file name="u5082-17-fs.png" crc="4202749706" ref="index"/>
+    <file name="памятники в машине в упаковке.jpg" crc="276877443" seo="true" ref="index"/>
+    <file name="u5116-17.png" crc="4202749706" ref="index"/>
+    <file name="u5116-17-r.png" crc="3836419300" ref="index"/>
+    <file name="u5116-17-m.png" crc="4202749706" ref="index"/>
+    <file name="u5116-17-fs.png" crc="4202749706" ref="index"/>
+    <file name="u6001-17.png" crc="4202749706" ref="index"/>
+    <file name="u6001-17-r.png" crc="3836419300" ref="index"/>
+    <file name="u6001-17-m.png" crc="4202749706" ref="index"/>
+    <file name="u6001-17-fs.png" crc="4202749706" ref="index"/>
+    <file name="lacoste_logo.png" crc="214086695" seo="true" ref="index"/>
+    <file name="logo makita.png" crc="223116259" seo="true" ref="index"/>
+    <file name="mobil-1-logo.png" crc="397693352" seo="true" ref="index"/>
+    <file name="logo_interskol.png" crc="281922683" seo="true" ref="index"/>
+    <file name="pampers_logo.png" crc="4009335918" seo="true" ref="index"/>
+    <file name="yokohama.png" crc="115044868" seo="true" ref="index"/>
+    <file name="36043-u3216.png" crc="4054441915" ref="index"/>
+    <file name="полоза прав2-u3269.png" crc="367356332" ref="index"/>
+    <file name="domoj2.png" crc="468559824" ref="spasibo_za_zakaz"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="382738340" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="413723870" ref="tablet>index"/>
+      <file name="spasibo_za_zakaz.css" crc="480107902" ref="tablet>spasibo_za_zakaz"/>
+      <file name="iefonts_spasibo_za_zakaz.css" crc="374805370" ref="tablet>spasibo_za_zakaz"/>
+    </folder>
+    <file name="index.html" crc="3761457658" seo="true" mt="1500378804927" redirect="true"/>
+    <file name="spasibo_za_zakaz.html" crc="531210632" seo="true" mt="1500378783595" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="524782395" seo="true" mt="1500378764218" redirect="true"/>
+  <file name="spasibo_za_zakaz.html" crc="497994562" seo="true" mt="1500378774634" redirect="true"/>
+</manifest>
